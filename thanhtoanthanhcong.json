@@ -1,0 +1,16 @@
+{
+  "type": "success",
+  "pages": 12,
+  "orders": [
+    {
+      "merchant_order_id": "Order #123",
+      "fk_order_id": 652367,
+      "amount": 100.12,
+      "currency": "RUB",
+      "email": "user@site.ru",
+      "account": "5555555555554444",
+      "date": "2021-03-29 12:28:24",
+      "status": 1
+    }
+  ]
+}
